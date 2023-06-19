@@ -1,8 +1,9 @@
 // Import stylesheets
 import './style.css';
-import'./strings.js';
-import'./arrays.js';
-import'./date.j';
+//import'./strings.js';
+//import'./arrays.js';
+//import'./date.js';
+import'./dom-events.js';
 
 
 // Write Javascript code!
